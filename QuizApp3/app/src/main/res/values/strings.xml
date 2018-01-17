@@ -1,0 +1,160 @@
+<resources>
+    <string name="app_name">quizapp3</string>
+    <!--Questions-->
+
+    <!--Question1-->
+    <string name="question_australia">What is the capital of Australia.</string>
+    <string name="answer_question_australia">Canberra</string>
+    <string name="answerId_question_australia">option2_question_austuralia</string>
+    <string name="option1_question_australia">Ankara</string>
+    <string name="option2_question_australia">Canberra</string>
+    <string name="option3_question_australia">Moscow</string>
+    <string name="option4_question_australia">Zonguldak</string>
+    <!--         -->
+
+    <!--Question2-->
+    <string name="question_oceans">Which one of the followings is true?</string>
+    <string name="answer_question_oceans">The Pacific Ocean is larger than the Atlantic Ocean.</string>
+    <string name="option1_question_oceans">Afyonkarahisar is the capital city of Germany.</string>
+    <string name="option2_question_oceans">The biggest city in the World is Trabzon.</string>
+    <string name="option3_question_oceans">This option is true.</string>
+    <string name="option4_question_oceans">The Pacific Ocean is larger than the Atlantic Ocean.</string>
+    <!--         -->
+
+    <!--Question3-->
+    <string name="question_math">Which one of the followings is true?</string>
+    <string name="answer_question_math">(2+2*2+5*2)*0 = 0 this equation is not funny</string>
+    <string name="option1_question_math">5 + 5 = 12</string>
+    <string name="option2_question_math">If sqrt(x) = 5,then x = 2</string>
+    <string name="option3_question_math">5*5 = 24,5</string>
+    <string name="option4_question_math">(2+2*2+5*2)*0 = 0 this equation is not funny</string>
+    <!--         -->
+
+    <!--Question4-->
+    <string name="question_cinema">Who played Saban character in Yesilcam?</string>
+    <string name="answer_question_cinema">Kemal Sunal</string>
+    <string name="option1_question_cinema">Kemal Doğulu</string>
+    <string name="option2_question_cinema">Kibariye</string>
+    <string name="option3_question_cinema">Banu Alkan</string>
+    <string name="option4_question_cinema">Kemal Sunal</string>
+    <!--         -->
+
+    <!--Question5-->
+    <string name="question_chem">Water is composed of ...</string>
+    <string name="answer_question_chem">Hydrogen and Oxygene</string>
+    <string name="option1_question_chem">Carbon and Oxygene</string>
+    <string name="option2_question_chem">Hydrogen and Oxygene</string>
+    <string name="option3_question_chem">Walter White and Jesse Pinkman</string>
+    <string name="option4_question_chem">I am the one who knocks</string>
+    <!--         -->
+
+    <!--Question6-->
+    <string name="question_tv">Which one of the following TV shows/docs is a documentary of humanity?</string>
+    <string name="answer_question_tv">Evleneceksen Gel</string>
+    <string name="option1_question_tv">Secrets of the Universe</string>
+    <string name="option2_question_tv">Quantum Documentary</string>
+    <string name="option3_question_tv">Crazy Animals</string>
+    <string name="option4_question_tv">Evleneceksen Gel</string>
+    <!--         -->
+
+    <!--Question7-->
+    <string name="question_phone">How can we make phone call on our phones?</string>
+    <string name="answer_question_phone">Via Phone App</string>
+    <string name="option1_question_phone">Via Phone App</string>
+    <string name="option2_question_phone">Via Youtube App</string>
+    <string name="option3_question_phone">Via Instagram App</string>
+    <string name="option4_question_phone">We cant make phone call on our phones</string>
+    <!--         -->
+
+    <!--Question8-->
+    <string name="question_music">Which one is a metal song?</string>
+    <string name="answer_question_music">Mein Teil</string>
+    <string name="option1_question_music">Ordunun Dereleri</string>
+    <string name="option2_question_music">Mein Teil</string>
+    <string name="option3_question_music">Zorunda mıyım</string>
+    <string name="option4_question_music">Bir sen bir ben bir de bebek</string>
+    <!--         -->
+
+    <!--Question9-->
+    <string name="question_time">If one hour ago,time was 1:00PM,what time is it now?</string>
+    <string name="answer_question_time">2 PM</string>
+    <string name="option1_question_time">5 PM</string>
+    <string name="option2_question_time">6 AM</string>
+    <string name="option3_question_time">2 PM</string>
+    <string name="option4_question_time">1:30 PM</string>
+    <!--         -->
+
+
+    <!--Question10-->
+    <string name="question_quiz">How was the quiz?</string>
+    <string name="answer_question_quiz">Very difficult</string>
+    <string name="option1_question_quiz">Not good,absurd</string>
+    <string name="option2_question_quiz">Good,but was little difficult</string>
+    <string name="option3_question_quiz">Very good</string>
+    <string name="option4_question_quiz">Very difficult</string>
+    <!--         -->
+
+    <!-- Option Buttons -->
+    <string name="firstOptionButton">FIRST</string>
+    <string name="secondOptionButton">SECOND</string>
+    <string name="thirdOptionButton">THIRD</string>
+    <string name="fourthOptionButton">FOURTH</string>
+    <!--         -->
+
+    <!-- Result Activity -->
+    <string name="startNewButton">START NEW</string>
+    <string name="exitButton">EXIT</string>
+    <!--         -->
+
+    <!-- Buttons/Toasts -->
+    <string name="firstCategory">Android</string>
+    <string name="secondCategory">Math</string>
+    <string name="thirdCategory">Food</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect! :D</string>
+    <string name="startButton">START</string>
+    <string name="endQuiz">End Quiz</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <!--         -->
+
+
+
+
+    <string-array name="drawerNav">
+
+
+        <item>Profile</item>
+        <item>Friends</item>
+        <item>Quiz</item>
+        <item>TopRanks</item>
+
+
+    </string-array>
+
+
+</resources>

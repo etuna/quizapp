@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:columnCount="3"
+        android:rowCount="4">
+
+        <Button
+            android:id="@+id/b0_100"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="100" />
+
+        <Button
+            android:id="@+id/b1_100"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="100" />
+
+        <Button
+            android:id="@+id/b2_100"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="100" />
+
+        <Button
+            android:id="@+id/b3_200"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="200" />
+
+        <Button
+            android:id="@+id/b4_200"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="200" />
+
+        <Button
+            android:id="@+id/b5_200"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="200" />
+
+        <Button
+            android:id="@+id/b6_300"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="300" />
+
+        <Button
+            android:id="@+id/b7_300"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="300" />
+
+        <Button
+            android:id="@+id/b8_300"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="300" />
+
+        <Button
+            android:id="@+id/b9_400"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="400" />
+
+        <Button
+            android:id="@+id/b10_400"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="400" />
+
+        <Button
+            android:id="@+id/b11_400"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="400" />
+
+
+    </GridLayout>
+
+    <Button
+        android:id="@+id/endQuiz"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/endQuiz" />
+</LinearLayout>
